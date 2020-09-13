@@ -24,7 +24,13 @@ be fully into software by itself.
 I am currently interested in Software Engineering roles as well as Data Science roles, but I am willing to take any path that
 comes my way that may excite me. 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kironb&theme=<THEME_NAME>" />
+### My Stats 
+<a href="https://github.com/Kironb/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kironb&theme=tokyonight" />
+</a>
+<a href="https://github.com/Kironb/github-readme-top-langs">
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Kironb&theme=tokyonight />
+</a>
 
 - 🌱 I’m currently learning:
   - Flutter, Apache Ignite, Spark and MapReduce.
