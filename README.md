@@ -42,7 +42,7 @@ comes my way that may excite me.
 -->
 
 
-#### My Stats 
+#### My Stats: 
 <a href="https://github.com/Kironb/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kironb&count_private=true" />
 </a>
