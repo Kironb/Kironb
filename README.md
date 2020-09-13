@@ -24,6 +24,8 @@ be fully into software by itself.
 I am currently interested in Software Engineering roles as well as Data Science roles, but I am willing to take any path that
 comes my way that may excite me. 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kironb&theme=<THEME_NAME>" />
+
 - 🌱 I’m currently learning:
   - Flutter, Apache Ignite, Spark and MapReduce.
   - Agile methodologies and SCRUM.
@@ -31,3 +33,4 @@ comes my way that may excite me.
 - 📫 How to reach me: 
   - Email me at: knb93@scarletmail.rutgers.edu
   - Message me on linkedin: https://www.linkedin.com/in/kirollos-basta-203835128
+
