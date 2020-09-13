@@ -25,7 +25,7 @@ be fully into software by itself.
 I am currently interested in Software Engineering roles as well as Data Science roles, but I am willing to take any path that
 comes my way that may excite me. 
 
-#### 🌱 I am currently learning
+#### 🌱 I am currently learning:
   - Flutter, Apache Ignite, Spark and MapReduce.
   - Agile methodologies and SCRUM.
   
