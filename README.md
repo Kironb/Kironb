@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineering Intern at BlackRock and am a Senior Computer Science major at Rutgers University.
+I am a Software Engineer at BlackRock and graduated with a B.S. in Computer Science from Rutgers University.
 
 I always love learning new technologies so always feel free to message or contact me about anything software related!
 Otherwise, I am always free to talk about interesting ideas and love gaining insight into different areas, even if it may not
