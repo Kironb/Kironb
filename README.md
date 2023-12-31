@@ -16,18 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineer at BlackRock and graduated with a B.S. in Computer Science from Rutgers University.
+I am a Software Engineer at Two Sigma and graduated with a B.S. in Computer Science from Rutgers University. 
 
 I always love learning new technologies so always feel free to message or contact me about anything software related!
 Otherwise, I am always free to talk about interesting ideas and love gaining insight into different areas, even if it may not
 be fully into software by itself.
 
 I am currently interested in Software Engineering roles as well as Data Science roles, but I am willing to take any path that
-comes my way that may excite me. 
+comes my way that may excites me!
 
 #### 🌱 I am currently learning:
   - Flutter, Apache Ignite, Spark and MapReduce.
-  - Agile methodologies and SCRUM.
   
 #### 📬 How to reach me: 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Kironb/)](https://github.com/Kironb/) 
